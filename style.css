@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    /* border: 2px solid black; */
+    height: 100%;
+    width: 100%;
+    margin-top: 50px;
+    gap: 50px;
+}
+.video1{
+    border: 2px solid black;
+    top: 100px;
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    margin-bottom: 25px;
+}
+.video2{
+    border: 2px solid black;
+    top: 100px;
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    margin-bottom: 25px;
+}
+.video3{
+    border: 2px solid black;
+    top: 100px;
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    margin-bottom: 25px;
+}
+.video4{
+    border: 2px solid black;
+    top: 100px;
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    margin-bottom: 25px;
+}
+.video5{
+    border: 2px solid black;
+    top: 100px;
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    margin-bottom: 25px;
+}
+.video6{
+    border: 2px solid black;
+    top: 100px;
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    margin-bottom: 25px;
+}
+.video7{
+    border: 2px solid black;
+    top: 100px;
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    margin-bottom: 25px;
+}
+.video8{
+    border: 2px solid black;
+    top: 100px;
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    margin-bottom: 25px;
+}
+.video9{
+    border: 2px solid black;
+    top: 100px;
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    margin-bottom: 25px;
+}
+.video10{
+    border: 2px solid black;
+    top: 100px;
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    margin-bottom: 25px;
+}
